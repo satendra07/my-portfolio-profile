@@ -469,6 +469,13 @@ body {
     body {
         width: 100%;
     }
+     .socialmedia a img {
+       
+        margin-inline: .6rem;
+       
+        
+    }
+
 
     .item-2 {
         margin-top: 3rem;
